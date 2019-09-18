@@ -1,5 +1,4 @@
-# Sept2019
-Soham's Internship Program Sept 2019
+# SohamGlobal Internship Assignment Sept2019
 
 Welcome to Soham's Work from Home Internships. 
 
